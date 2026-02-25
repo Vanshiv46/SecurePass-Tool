@@ -1,12 +1,27 @@
-# SecurePass Tool
+# SecurePass Tool 🔐
 
 SecurePass is a simple cybersecurity project developed in Python.
 
-Features:
+## Features
 
-Password Strength Checker
-Password Encryption using SHA-256
+- Password Strength Checker
+- Password Encryption using SHA-256
+- Beginner cybersecurity tool
 
-Author:
-Vanshiv Garg
+## Technologies Used
+
+- Python
+- Hashlib
+- Regex
+
+## Author
+
+Vanshiv Garg  
+B.Tech CSE  
 IIIT Una
+
+## How to Run
+
+Run the program using:
+
+python securepass.py
